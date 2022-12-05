@@ -17,7 +17,7 @@ We have selected 30 images out of a total of 1700 frames for our projects purpos
 
 ## Results
 
-![Screenshot](https://github.com/Abhinav-974/DMD-ML-Grp-3-Project/blob/main/Input_Data/in000051.jpg)
+![Screenshot](https://github.com/Abhinav-974/DMD-ML-Grp-3-Project/blob/main/Input/Input_Data/in000051.jpg)
 
 **Original Image**
 
