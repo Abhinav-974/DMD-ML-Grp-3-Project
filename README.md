@@ -27,6 +27,6 @@ The above image is deconstructed into its corresponding two components the (low 
 |:-:|:-:|:-:|
 |![Reconstructed Image](https://github.com/Abhinav-974/DMD-ML-Grp-3-Project/blob/main/Results/Reconstructed_Images/in000051.jpg)|![Background Image](https://github.com/Abhinav-974/DMD-ML-Grp-3-Project/blob/main/Results/Background_Images/in000051.jpg)|![Foreground Image](https://github.com/Abhinav-974/DMD-ML-Grp-3-Project/blob/main/Results/Foreground_Images/in000051.jpg)|
 
-## File Description
+## Project Description
 We have uploaded 2 notebooks - one contains the main code with generated image results, along with the input data and results folder for that notebook. The second one is an attempt on coding the DMD algorithm from scratch, using the algorithm given in the project paper. The code along with the data used is given in the 'code from scratch' folder used. 
 We have used the following package documentation 
